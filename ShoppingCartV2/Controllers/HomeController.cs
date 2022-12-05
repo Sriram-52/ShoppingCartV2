@@ -1,9 +1,9 @@
 ﻿/*
 * Course: CS 6070
-* Section: .....
-* Name: ......
-* Professor: ......
-* Assignment #: Module Assignment #8
+* Section: W01 Fall Semester 2022
+* Name: Sri Ram Mohan Nyshadham
+* Professor: Bobin Deng, Ph.D.
+* Assignment #: Module Assignment #7
 */
 
 using System;
